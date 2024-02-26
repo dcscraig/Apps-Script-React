@@ -1,8 +1,7 @@
-import { Container, Grid, Paper,Item } from "@mui/material";
+import {Grid, Paper} from "@mui/material";
 import TopBar from "./components/Nav/TopBar"
-import LinearStepper from "./components/process/LinearStepper";
 
-const appInfo = {name:"Reflecture 2"};
+const appInfo = {name:"App name"};
 export default function App(){
     return( 
     <>
